@@ -1,12 +1,7 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fpt.vn" resolutions="1x" timestamp="1494332893225">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fpt.vn" resolutions="1x" timestamp="1494337264497">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3778441457" ref="index"/>
-  </folder>
-  <folder name="fonts">
-    <file name="fontawesome-webfont.woff" crc="462672289"/>
-    <file name="fontawesome-webfont.eot" crc="415170694"/>
-    <file name="fontawesome-webfont.svg" crc="3771442179"/>
+    <file name="index.css" crc="3984268583" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -29,5 +24,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4195024371" seo="true" mt="1494331883094" redirect="true"/>
+  <file name="index.html" crc="3810894907" seo="true" mt="1494336857600" redirect="true"/>
 </manifest>
